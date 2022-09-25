@@ -1,5 +1,7 @@
 # Socket-based-FTP	
 
+#Author : Shrikrishna Bhat
+
 The following is an implementation of File Transfer Protocol using TCP sockets in C. All 4 functionalities have been implemented in the the program which are
 
  * PUT : Transfer a file from client to server
